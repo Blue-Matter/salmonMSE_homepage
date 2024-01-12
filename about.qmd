@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+SalmonMSE has been developed by ...

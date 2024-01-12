@@ -1,0 +1,15 @@
+---
+title: "Welcome to SalmonMSE"
+---
+
+![](img/sockeye.jpg){fig-alt="salmon"}
+
+SalmonMSE is an open-source tool designed for fishery and hatchery managers, scientists, and other interested stakeholders to ...
+
+## Conceptual Overview
+
+Flowchart describing main components of SalmonMSE and how the relations between them.
+
+## Technical Details
+
+For technical details of SalmonMSE, go the [technical documentation page](https://docs.salmonmse.com)
