@@ -12,4 +12,4 @@ Flowchart describing main components of SalmonMSE and how the relations between 
 
 ## Technical Details
 
-For technical details of SalmonMSE, go the [technical documentation page](https://docs.salmonmse.com)
+For technical details see the [technical documentation](https://docs.salmonmse.com).
