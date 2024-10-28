@@ -1,15 +1,31 @@
 ---
-title: "Welcome to SalmonMSE"
+title: "Welcome to salmonMSE"
 ---
 
 ![](img/sockeye.jpg){fig-alt="salmon"}
 
-SalmonMSE is an open-source tool designed for fishery and hatchery managers, scientists, and other interested stakeholders to ...
+## Introduction
 
-## Conceptual Overview
+Pacific salmon systems are characterized by a complex life-history with drivers that influence them at various life stages in both the marine and freshwater environments.
+We can address those changes through Harvest, Hatchery and Habitat management, but there is often little guidance on how these relatively coarse scale levers can help achieve management objectives given the underlying complexity in life-history and environmental drivers.
 
-Flowchart describing main components of SalmonMSE and how the relations between them.
+salmonMSE is an open-source tool designed for fishery and hatchery managers, scientists, and other interested stakeholders to evaluate and compare strategic trade-offs among these three management levers.
+
+salmonMSE utilizes a risk-based approach for prioritizing management levers to identify trade-offs in achieving biological and harvest objectives among management levers for medium-to-long term strategic planning.
+
+## salmonMSE development
+
+Development of salmonMSE is informed by a Technical Advisory Group (TAG) that provides advice on model structure and conditioning, model outputs, ease of use, and future application to the West Coast Vancouver Island (WCVI) Chinook case study.
+
+In 2024, participants in the TAG consists of DFO and First Nations, including SEP, WCVI Area Stock assessment, DFO core Science, SARA, and PSSI.
+If the prototype is successful, a broader TAG will be created in future phases of the project to guide the development and application of the tool more generally.
+
+Presentations to the TAG are available below. 
+Contents reflect information to the date of the presentation and may be currently out of date, as salmonMSE is currently under active development and is subject to additional modification based on feedback.
+
+- [Presentation - January 29, 2024](https://docs.google.com/presentation/d/1PVvoBhJ5L8g5_PbffgvihrISDKZ5JxLY/edit?usp=sharing&ouid=110611304283721893731&rtpof=true&sd=true)
+- [Presentation - October 30, 2024](https://docs.google.com/presentation/d/1lwvVfMDwYrwQ6Qjuato77hK4h_Mu6VeW/edit?usp=sharing&ouid=110611304283721893731&rtpof=true&sd=true)
 
 ## Technical Details
 
-For technical details see the [technical documentation](https://docs.salmonmse.com).
+For technical details, see the [technical documentation](https://docs.salmonmse.com).
