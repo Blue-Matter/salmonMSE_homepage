@@ -43,7 +43,7 @@ salmonMSE was used to evaluate alternative harvest and hatchery management strat
 
 The model outputs were developed to support fisheries management and rebuilding decision-making by the Huu-ay-aht First Nations:
 
-- [Presentation - Feburary 2, 2026](https://docs.google.com/presentation/d/17gjZdGj7l0s94G3m_Iklbe6CF6hvUdZ-/edit?usp=sharing&ouid=110611304283721893731&rtpof=true&sd=true)
+- [Presentation - April 17, 2026](presentations/salmonMSE_seminar17April2026.pdf)
 
 ### Upper Strait of Georgia Chinook Salmon
 
